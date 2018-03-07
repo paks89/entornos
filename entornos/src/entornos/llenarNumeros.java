@@ -9,7 +9,7 @@ public class llenarNumeros {
 		tabla = llenar(n);
 		int suma = sumar(tabla);
 		System.out.println("la suma es: " +suma);
-		System.out.println("pruebas gitHUB");
+		System.out.println("hola gitHUB");
 	}
 	
 	private static int[] llenar (int n) {
